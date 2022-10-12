@@ -1,2 +1,2 @@
 # microverse-project2
-Navigate bewteen branches and make changes to files
+https://ferkovalink.github.io/microverse-project2/
