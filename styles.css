@@ -3,4 +3,65 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: black;
 }
+
+#main p{
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+
+#title{
+    font-size: 4rem;
+    color: aliceblue;
+    background-color: crimson;
+    width: 100%;
+    text-align: center;
+}
+
+#img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#img-div img{
+    display: block;
+}
+
+#img-caption{
+    color: aliceblue;
+    text-align: center;
+    width: 80%;
+    padding-top: 20px;
+}
+
+#image{
+    max-width: 100%;
+}
+
+#tribute-info{
+    text-align: center;
+}
+
+#tribute-info h2{
+    color: aliceblue;
+    padding-bottom: 30px;
+    font-size: 3rem;
+}
+
+#tribute-info ul li{
+      margin: 10px;
+      background-color: #313131;
+      border-radius: 30px;
+  
+}
+
+#tribute-info ul li p{
+    font-size: 1.2rem;
+    margin-right: 50px;
+}
+
+
+
